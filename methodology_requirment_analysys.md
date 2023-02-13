@@ -98,6 +98,8 @@ Step 5: End
 # Flow Chart
 
 # Coding
+![Logo](./img/codeSS.png)
+
 
 
 
