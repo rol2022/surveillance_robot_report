@@ -96,6 +96,7 @@ Step 5: End
 
 ```
 # Flow Chart
+![Logo](./img/flowchart.jpg)
 
 # Coding
 ![Logo](./img/codeSS.png)
