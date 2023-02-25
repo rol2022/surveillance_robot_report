@@ -1,6 +1,6 @@
 # Methodology and Requirement Analysis
 
-### আমাদের এই Android Comtrol Surveillance Robot তৈরিতে যেসব যন্ত্রপাতি লেগেছেঃ
+### আমাদের এই Android Control Surveillance Robot তৈরিতে যেসব যন্ত্রপাতি লেগেছেঃ
 <br>
 
 # Arduino UNO :
