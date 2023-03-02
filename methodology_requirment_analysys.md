@@ -1,6 +1,6 @@
 # Methodology and Requirement Analysis
 
-### আমাদের এই Android Comtrol Surveillance Robot তৈরিতে যেসব যন্ত্রপাতি লেগেছেঃ
+### আমাদের এই Android Control Surveillance Robot তৈরিতে যেসব যন্ত্রপাতি লেগেছেঃ
 <br>
 
 # Arduino UNO :
@@ -48,6 +48,18 @@
 <br>
 
 
+# DC Voltage Converter
+### ক্যামেরাকে আলাদা ভাবে +5V প্রদানের জন্য HW-411A LM2596 DC-DC Step Down Adjustable Power Supply Module Buck Converter ব্যবহার করা হয়েছে।
+
+![Logo](./img/dctodc.jpg)
+
+
+# Switch
+### রোবটের পাওয়ার On/Off করার জন্য একটি Switch ব্যবহার করা হয়েছে।
+
+![Logo](./img/switch.jpg)
+
+
 # LED Light
 ### অন্ধকারে চলাচলের জন্য রোবটের সামনে পিছনে Led Light ব্যবহার করা হয়েছে।
 
@@ -55,6 +67,8 @@
 
 # Companion App
 ### রোবটকে চালানোর জন্য একটি Third Party Android App ব্যবহার করা হয়েছে।
+
+![Logo](./img/app_screen.jpg)
 
 <br>
 
